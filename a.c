@@ -1,0 +1,4 @@
+cout << "fsdfasdfa";
+while (){
+	
+}
